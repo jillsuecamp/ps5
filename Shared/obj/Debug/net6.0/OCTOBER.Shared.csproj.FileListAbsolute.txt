@@ -1,0 +1,12 @@
+/Users/jilliancamp/cisc437/OCTOBER/Shared/bin/Debug/net6.0/OCTOBER.Shared.deps.json
+/Users/jilliancamp/cisc437/OCTOBER/Shared/bin/Debug/net6.0/OCTOBER.Shared.dll
+/Users/jilliancamp/cisc437/OCTOBER/Shared/bin/Debug/net6.0/OCTOBER.Shared.pdb
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.csproj.AssemblyReference.cache
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.AssemblyInfoInputs.cache
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.AssemblyInfo.cs
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.csproj.CoreCompileInputs.cache
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.dll
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/refint/OCTOBER.Shared.dll
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.pdb
+/Users/jilliancamp/cisc437/OCTOBER/Shared/obj/Debug/net6.0/ref/OCTOBER.Shared.dll
